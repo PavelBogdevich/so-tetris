@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PuzzleA.qml</file>
+        <file>PuzzleB.qml</file>
+        <file>PuzzleC.qml</file>
+        <file>PuzzleD.qml</file>
+        <file>Map.qml</file>
+        <file>DragPuzzle.qml</file>
+        <file>MapItem.qml</file>
+        <file>MenuButton.qml</file>
+        <file>Game.qml</file>
+        <file>images/replay.png</file>
+        <file>images/pause.png</file>
+        <file>GameHeader.qml</file>
+        <file>GameHeaderButton.qml</file>
+        <file>GameHeaderTimer.qml</file>
+        <file>GamePauseDialog.qml</file>
+        <file>images/back.png</file>
+    </qresource>
+</RCC>
